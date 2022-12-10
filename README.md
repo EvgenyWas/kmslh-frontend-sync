@@ -1,1 +1,1 @@
-# kmslh-frontend-sync
+# KMS Lighthouse frontend sync
