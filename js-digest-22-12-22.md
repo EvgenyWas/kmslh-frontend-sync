@@ -10,6 +10,14 @@ Topics: #javascript #nodejs #security
 
 [Website](https://events.geekle.us/nodejs2/)
 
+### Vue.js Nation 2023
+
+Location and date: Online, January 25-26
+
+Topics: #vue #javascript
+
+[Website](https://vuejsnation.com/)
+
 ### Refresh Conference 2023
 
 Location and date: Tartu, Estonia, January 26-27
