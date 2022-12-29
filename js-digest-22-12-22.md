@@ -49,8 +49,7 @@ Topics: #vuejs
 - Hints for inactive CSS properties;
 - Auto-detect XPath and text selectors in the Recorder panel;
 - Step through comma-separated expressions;
-- Improved Ignore list setting;
-- Miscellaneous highlights.
+- Improved Ignore list setting.
 
 [New in DevTools Chrome 108](https://developer.chrome.com/en/blog/new-in-devtools-108/)
 
