@@ -1,4 +1,4 @@
-# JS digest 22/12/2022
+# JS digest 2022/12/22
 
 ## Conferences & meetups
 
