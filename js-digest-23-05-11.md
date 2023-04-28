@@ -13,30 +13,54 @@ Topics: #javascript #nodejs #security
 
 ## News & updates
 
-### New in DevTools Chrome 108
+### Vue.js Certification
 
-- Hints for inactive CSS properties;
-- Auto-detect XPath and text selectors in the Recorder panel;
-- Step through comma-separated expressions;
-- Improved Ignore list setting.
+What are the purpose and benefits of Vue.js Certification?
 
-[New in DevTools Chrome 108](https://developer.chrome.com/en/blog/new-in-devtools-108/)
+- Professional Credibility: a Vue.js certification will demonstrate a developer’s knowledge and skills in this popular framework and help enhance professional credibility;
+- Competitive Edge: adding an officially recognized certification to a developer’s resume will give a competitive edge over those that are not certified;
+- Career Advancement: investing in a Vue.js certification can open up better job opportunities for a developer. In fact, according to the latest Pearson 2023 Value of IT Certification Candidate Report, 27% of tech professionals accepted job promotions after earning a certification;
 
-### State of Frontend 2022
+- Validation of Skills: certification is an objective validation of a developer’s proficiency in Vue.js, which will be recognized by other professionals in the industry;
 
-The last two years haven’t been the easiest and prompted a lot of changes globally. The IT industry was directly engaged in digital transformation since life as we knew it basically moved online. Frontend development was also subject to change – from technologies to good practices and working conditions. So where possible, we presented data from The State of Frontend 2020 and 2022 side by side for better comparison.
+- Improved Team Confidence: the Pearson report also shows that 92% of candidates are more confident in their ability to do their job after gaining certification, as it validates their Vue.js knowledge and skills;
 
-[State of Frontend 2022](https://tsh.io/state-of-frontend/)
+- Increased Team Capabilities: offering Vue.js certification motivates developers to learn new skills, build and ship better products faster, and broaden the variety of skills available. Your team can also improve their competence and confidence to handle any task, leading to better knowledge retention and efficiency.
+
+[Vue.js Certification](https://certification.vuejs.org/)
+
+### Announcing TypeScript 5.0
+
+- Decorators
+- const Type Parameters
+- Supporting Multiple Configuration Files in extends
+- All enums Are Union enums
+- --moduleResolution bundler
+- Resolution Customization Flags
+- --verbatimModuleSyntax
+- Support for export type *
+- Exhaustive switch/case Completions
+- Speed, Memory, and Package Size Optimizations
+- Breaking Changes and Deprecations
+
+[Article](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+
+### New React.js documentation
+
+Great news in the React world: after years of hard work and refinement, the former React Docs Beta have been promoted to official React documentation and are now live at react.dev.
+
+[New documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
 ## Articles
 
-### Micro Frontends
+### JavaScript Algorithms and Data Structures
 
-Topics: #frontend #architecture
+Topics: #javascript
 
-Extending the microservice idea to frontend development. Techniques, strategies and recipes for building a modern web app with multiple teams that can ship features independently.
+This repository contains JavaScript based examples of many popular algorithms and data structures.
+Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
-[Article](https://micro-frontends.org/)
+[GitHub]([https://micro-frontends.org/](https://github.com/trekhleb/javascript-algorithms))
 
 ### Triangulation in Test-Driven Development
 
