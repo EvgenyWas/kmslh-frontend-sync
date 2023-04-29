@@ -111,6 +111,14 @@ Each algorithm and data structure has its own separate README with related expla
 
 [GitHub]([https://micro-frontends.org/](https://github.com/trekhleb/javascript-algorithms))
 
+### Dweb: Decentralised, Real-Time, Interoperable Communication with Matrix
+
+Topis: #web #decentralization
+
+While Scuttlebutt is person-centric and IPFS is document-centric, today you’ll learn about Matrix, which is all about messages. Instead of inventing a whole new stack, they’ve leaned on some familiar parts of the web today – HTTP as a transport, and JSON for the message format. How those messages get around is what distinguishes it – a system of decentralized servers, designed with interoperability in mind from the beginning, and an extensibility model for adapting to different use-cases. Please enjoy this introduction from Ben Parsons, developer advocate for Matrix.org.
+
+[Article](https://hacks.mozilla.org/2018/10/dweb-decentralised-real-time-interoperable-communication-with-matrix/)
+
 ### 10 Web Development Trends in 2023
 
 - (META) FRAMEWORKS;
