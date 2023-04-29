@@ -83,6 +83,15 @@ Great news in the React world: after years of hard work and refinement, the form
 
 [New documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
+### GitHub Copilot X: The AI-powered developer experience
+
+- A ChatGPT-like experience in your editor with GitHub Copilot Chat;
+- Copilot for Pull Requests;
+- Get AI-generated answers about documentation;
+- Copilot for the command line interface (CLI).
+
+[GutHub blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+
 ### What to Expect from Vue in 2023 and How it Differs from React
 
 - Evan You’s State of the Vuenion;
