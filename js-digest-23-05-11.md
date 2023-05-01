@@ -121,6 +121,8 @@ While Scuttlebutt is person-centric and IPFS is document-centric, today you’ll
 
 ### 10 Web Development Trends in 2023
 
+Topics: #web
+
 - (META) FRAMEWORKS;
 - APPLICATION AND RENDERING PATTERNS;
 - SERVERLESS AT THE EDGE;
@@ -133,3 +135,11 @@ While Scuttlebutt is person-centric and IPFS is document-centric, today you’ll
 - AI DRIVEN DEVELOPMENT.
 
 [Article](https://www.robinwieruch.de/web-development-trends/)
+
+### Wev Scraping in JavaScript
+
+Topics: #javascript
+
+Simple introduction to scraping web pages with Puppeteer.
+
+[Article](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/amp/)
