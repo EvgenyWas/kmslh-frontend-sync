@@ -83,6 +83,19 @@ Great news in the React world: after years of hard work and refinement, the form
 
 [New documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
+### Angular v16
+
+- Rethinking Reactivity;
+- Angular Signals;
+- RxJS interoperability;
+- Server-side rendering and hydration enhanced;
+- Improved tooling for standalone components, directives, and pipes;
+- Advancing developer tooling;
+- Improving Developer Experience;
+- Better and more flexible components.
+
+[Angular v15 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+
 ### GitHub Copilot X: The AI-powered developer experience
 
 - A ChatGPT-like experience in your editor with GitHub Copilot Chat;
