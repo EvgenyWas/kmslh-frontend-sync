@@ -149,7 +149,7 @@ Topics: #web
 
 [Article](https://www.robinwieruch.de/web-development-trends/)
 
-### Wev Scraping in JavaScript
+### Web Scraping in JavaScript
 
 Topics: #javascript
 
