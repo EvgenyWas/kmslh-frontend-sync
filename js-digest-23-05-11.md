@@ -122,7 +122,7 @@ Topics: #javascript
 This repository contains JavaScript based examples of many popular algorithms and data structures.
 Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
-[GitHub]([https://micro-frontends.org/](https://github.com/trekhleb/javascript-algorithms))
+[GitHub](https://github.com/trekhleb/javascript-algorithms)
 
 ### Dweb: Decentralised, Real-Time, Interoperable Communication with Matrix
 
