@@ -94,7 +94,7 @@ Great news in the React world: after years of hard work and refinement, the form
 - Improving Developer Experience;
 - Better and more flexible components.
 
-[Angular v15 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+[Angular v16 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 
 ### GitHub Copilot X: The AI-powered developer experience
 
