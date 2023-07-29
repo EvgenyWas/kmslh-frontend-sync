@@ -44,73 +44,62 @@ Topics: #webgame #javascript
 
 ## News & updates
 
-### Vue.js Certification
+### Next.js 13.4
 
-What are the purpose and benefits of Vue.js Certification?
+- improvements for App Router;
+- Turbopack (Beta): Your local dev server, faster and with improved stability;
+- Server Actions (Alpha): Mutate data on the server with zero client JavaScript.
 
-- Professional Credibility: a Vue.js certification will demonstrate a developer’s knowledge and skills in this popular framework and help enhance professional credibility;
-- Competitive Edge: adding an officially recognized certification to a developer’s resume will give a competitive edge over those that are not certified;
-- Career Advancement: investing in a Vue.js certification can open up better job opportunities for a developer. In fact, according to the latest Pearson 2023 Value of IT Certification Candidate Report, 27% of tech professionals accepted job promotions after earning a certification;
+[Blog](https://nextjs.org/blog/next-13-4)
+[Release](https://github.com/vercel/next.js/releases/tag/v13.4.0)
 
-- Validation of Skills: certification is an objective validation of a developer’s proficiency in Vue.js, which will be recognized by other professionals in the industry;
+### New features in ECMAScript 2023
 
-- Improved Team Confidence: the Pearson report also shows that 92% of candidates are more confident in their ability to do their job after gaining certification, as it validates their Vue.js knowledge and skills;
+- Array find from last;
+- Hashbang Grammar;
+- Symbols as WeakMap keys;
+- Change Array by Copy.
 
-- Increased Team Capabilities: offering Vue.js certification motivates developers to learn new skills, build and ship better products faster, and broaden the variety of skills available. Your team can also improve their competence and confidence to handle any task, leading to better knowledge retention and efficiency.
+[Article](https://pawelgrzybek.com/whats-new-in-ecmascript-2023/)
+[Specification](https://www.ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf)
 
-[Vue.js Certification](https://certification.vuejs.org/)
+### Svelte 4
 
-### Announcing TypeScript 5.0
+What's new:
+- Performance;
+- Developer experience;
+- Updated site, docs, and tutorial;
+- 
 
-- Decorators
-- const Type Parameters
-- Supporting Multiple Configuration Files in extends
-- All enums Are Union enums
-- --moduleResolution bundler
-- Resolution Customization Flags
-- --verbatimModuleSyntax
-- Support for export type *
-- Exhaustive switch/case Completions
-- Speed, Memory, and Package Size Optimizations
-- Breaking Changes and Deprecations
+[Blog](https://svelte.dev/blog/svelte-4)
+[Release]([https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md#400](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0))
 
-[Article](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+### Figma Dev Mode
 
-### New React.js documentation
+Dev Mode is a new space in Figma for developers with features that help you translate designs into code, faster. Now available in open beta.
 
-Great news in the React world: after years of hard work and refinement, the former React Docs Beta have been promoted to official React documentation and are now live at react.dev.
+[Blog](https://www.figma.com/blog/introducing-dev-mode/)
+[Figma Guide](https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode)
+[Figma for VC Code](https://help.figma.com/hc/en-us/articles/15023121296151)
 
-[New documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
+### Deno 1.35
 
-### Angular v16
+- Deno API changes;
+- Web API changes;
+- Language server improvements;
+- Changes to the standard library;
+- V8 11.6 and TypeScript 5.1.6.
 
-- Rethinking Reactivity;
-- Angular Signals;
-- RxJS interoperability;
-- Server-side rendering and hydration enhanced;
-- Improved tooling for standalone components, directives, and pipes;
-- Advancing developer tooling;
-- Improving Developer Experience;
-- Better and more flexible components.
+[Blog](https://deno.com/blog/v1.35#improvements-to-npm-and-node-compatibility)
+[Release](https://github.com/denoland/deno/releases/tag/v1.35.0)
 
-[Angular v16 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+### Chrome 115
 
-### GitHub Copilot X: The AI-powered developer experience
+- Use `ScrollTimeline` and `ViewTimeline` to create scroll-driven animations that enhance user experience.
+- Fenced frames work along other Privacy Sandbox APIs to embed relevant content while preventing unnecessary context sharing.
+- With the [Topics API](https://developer.chrome.com/docs/privacy-sandbox/topics/overview/) the browser can share information with third parties about a user's interests while preserving privacy.
 
-- A ChatGPT-like experience in your editor with GitHub Copilot Chat;
-- Copilot for Pull Requests;
-- Get AI-generated answers about documentation;
-- Copilot for the command line interface (CLI).
-
-[GutHub blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
-
-### What to Expect from Vue in 2023 and How it Differs from React
-
-- Evan You’s State of the Vuenion;
-- Vue 3 and its New Approach to Virtual DOM;
-- Single-File Component.
-
-[Article](https://thenewstack.io/vue-2023/)
+[Blog](https://developer.chrome.com/blog/new-in-chrome-115/)
 
 ## Articles
 
