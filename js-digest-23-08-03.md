@@ -6,7 +6,7 @@
 
 Location and date: Online, August 17-18
 
-Topics: #javascript #react
+Topics: #javascript #reactjs
 
 [Website](https://www.reactrally.com/)
 
@@ -51,6 +51,7 @@ Topics: #webgame #javascript
 - Server Actions (Alpha): Mutate data on the server with zero client JavaScript.
 
 [Blog](https://nextjs.org/blog/next-13-4)
+
 [Release](https://github.com/vercel/next.js/releases/tag/v13.4.0)
 
 ### New features in ECMAScript 2023
@@ -61,6 +62,7 @@ Topics: #webgame #javascript
 - Change Array by Copy.
 
 [Article](https://pawelgrzybek.com/whats-new-in-ecmascript-2023/)
+
 [Specification](https://www.ecma-international.org/wp-content/uploads/ECMA-262_14th_edition_june_2023.pdf)
 
 ### Svelte 4
@@ -72,6 +74,7 @@ What's new:
 - 
 
 [Blog](https://svelte.dev/blog/svelte-4)
+
 [Release]([https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md#400](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0))
 
 ### Figma Dev Mode
@@ -79,7 +82,9 @@ What's new:
 Dev Mode is a new space in Figma for developers with features that help you translate designs into code, faster. Now available in open beta.
 
 [Blog](https://www.figma.com/blog/introducing-dev-mode/)
+
 [Figma Guide](https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode)
+
 [Figma for VC Code](https://help.figma.com/hc/en-us/articles/15023121296151)
 
 ### Deno 1.35
@@ -91,6 +96,7 @@ Dev Mode is a new space in Figma for developers with features that help you tran
 - V8 11.6 and TypeScript 5.1.6.
 
 [Blog](https://deno.com/blog/v1.35#improvements-to-npm-and-node-compatibility)
+
 [Release](https://github.com/denoland/deno/releases/tag/v1.35.0)
 
 ### Chrome 115
@@ -103,44 +109,49 @@ Dev Mode is a new space in Figma for developers with features that help you tran
 
 ## Articles
 
-### JavaScript Algorithms and Data Structures
+### State of Node.js Performance 2023
 
-Topics: #javascript
+Topics: #javascript #nodejs
 
-This repository contains JavaScript based examples of many popular algorithms and data structures.
-Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
+This article aims to provide a comparative analysis of different versions of Node.js. It highlights the improvements and setbacks and provides insights into the reasons behind those changes, without drawing any comparisons with other JavaScript runtimes.
 
-[GitHub](https://github.com/trekhleb/javascript-algorithms)
+[Article](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
 
-### Dweb: Decentralised, Real-Time, Interoperable Communication with Matrix
+### Explicit Software Design
 
-Topis: #web #decentralization
+Topis: #architecture #softwaredesign
 
-While Scuttlebutt is person-centric and IPFS is document-centric, today you’ll learn about Matrix, which is all about messages. Instead of inventing a whole new stack, they’ve leaned on some familiar parts of the web today – HTTP as a transport, and JSON for the message format. How those messages get around is what distinguishes it – a system of decentralized servers, designed with interoperability in mind from the beginning, and an extensibility model for adapting to different use-cases. Please enjoy this introduction from Ben Parsons, developer advocate for Matrix.org.
+Post series about applying various programming and architecture principles to React apps:
+- Explicit Software Design Series. Part 0;
+- Part 1. Domain Modelling;
+- Part 2. Application Core Design;
+- Part 3. Ports, Adapters, and UI;
+- Part 4. Ports, Adapters, and Infrastructure;
+- Part 5. App Composition;
+- Part 6. App Composition without Hooks;
+- Part 7. Cross-Cutting Concerns and Extendable Infrastructure;
+- Part 8. Adding New Feature;
+- Part 9. Decoupling Features with Events.
 
-[Article](https://hacks.mozilla.org/2018/10/dweb-decentralised-real-time-interoperable-communication-with-matrix/)
+[Article](https://bespoyasov.me/blog/explicit-design-10/)
 
-### 10 Web Development Trends in 2023
+### The State Of AI Tools And Coding: 2023 Edition
 
-Topics: #web
+Topics: #ai
 
-- (META) FRAMEWORKS;
-- APPLICATION AND RENDERING PATTERNS;
-- SERVERLESS AT THE EDGE;
-- DATABASE RENAISSANCE;
-- JAVASCRIPT RUNTIMES;
-- MONOREPOS;
-- UTILITY-FIRST CSS;
-- END-TO-END TYPE SAFETY WITH TYPESCRIPT;
-- BUILD TOOLS;
-- AI DRIVEN DEVELOPMENT.
+- Top 10 Takeaways;
+- Part 1: Demographics;
+- Part 2: AI Tool Usage Data;
+- Part 3: AI Tools in the Workplace;
+- Part 4: Management Insights;
+- Part 5: Programmer Opinions.
 
-[Article](https://www.robinwieruch.de/web-development-trends/)
+[Article](https://zerotomastery.io/blog/the-state-of-ai-tools-and-coding-2023-edition/)
 
-### Web Scraping in JavaScript
+### The Fullstack Tutorial for GraphQL
 
-Topics: #javascript
+Topics: #graphql
 
-Simple introduction to scraping web pages with Puppeteer.
+The Fullstack Tutorial for GraphQL. The free and open-source tutorial to learn all around GraphQL to go from zero to production.
 
-[Article](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/amp/)
+[Website](https://www.howtographql.com/)
