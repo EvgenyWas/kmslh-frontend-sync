@@ -95,7 +95,7 @@ Dev Mode is a new space in Figma for developers with features that help you tran
 - Changes to the standard library;
 - V8 11.6 and TypeScript 5.1.6.
 
-[Blog](https://deno.com/blog/v1.35#improvements-to-npm-and-node-compatibility)
+[Blog](https://deno.com/blog/v1.35)
 
 [Release](https://github.com/denoland/deno/releases/tag/v1.35.0)
 
