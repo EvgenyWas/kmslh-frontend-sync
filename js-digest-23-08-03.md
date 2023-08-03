@@ -75,7 +75,7 @@ What's new:
 
 [Blog](https://svelte.dev/blog/svelte-4)
 
-[Release]([https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md#400](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0))
+[Release](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0)
 
 ### Figma Dev Mode
 
