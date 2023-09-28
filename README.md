@@ -7,3 +7,4 @@
 
 ## Talks
 - [Introduction to Three.js](./introduction-to-three-js.md)
+- End-to-end testing with Playwright
